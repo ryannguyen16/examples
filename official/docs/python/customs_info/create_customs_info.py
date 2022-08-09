@@ -21,3 +21,5 @@ customs_info = easypost.CustomsInfo.create(
         }
     ],
 )
+
+print(customs_info)
